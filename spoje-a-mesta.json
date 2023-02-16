@@ -1,0 +1,106 @@
+{
+  "mesta": [
+    "A",
+    "D",
+    "Č",
+    "K",
+    "P",
+    "T",
+    "L",
+    "O",
+    "J",
+    "V"
+  ],
+  "spoje": [
+    {
+      "mesto1": "A",
+      "mesto2": "T",
+      "cena": 6
+    },
+    {
+      "mesto1": "A",
+      "mesto2": "K",
+      "cena": 9
+    },
+    {
+      "mesto1": "A",
+      "mesto2": "D",
+      "cena": 3
+    },
+    {
+      "mesto1": "D",
+      "mesto2": "T",
+      "cena": 4
+    },
+    {
+      "mesto1": "L",
+      "mesto2": "T",
+      "cena": 8
+    },
+    {
+      "mesto1": "D",
+      "mesto2": "L",
+      "cena": 7
+    },
+    {
+      "mesto1": "P",
+      "mesto2": "T",
+      "cena": 3
+    },
+    {
+      "mesto1": "K",
+      "mesto2": "O",
+      "cena": 1
+    },
+    {
+      "mesto1": "L",
+      "mesto2": "O",
+      "cena": 13
+    },
+    {
+      "mesto1": "D",
+      "mesto2": "Č",
+      "cena": 10
+    },
+    {
+      "mesto1": "P",
+      "mesto2": "Č",
+      "cena": 2
+    },
+    {
+      "mesto1": "P",
+      "mesto2": "V",
+      "cena": 2
+    },
+    {
+      "mesto1": "Č",
+      "mesto2": "L",
+      "cena": 5
+    },
+    {
+      "mesto1": "L",
+      "mesto2": "J",
+      "cena": 4
+    },
+    {
+      "mesto1": "J",
+      "mesto2": "V",
+      "cena": 15
+    },
+    {
+      "mesto1": "J",
+      "mesto2": "O",
+      "cena": 3
+    },
+    {
+      "mesto1": "V",
+      "mesto2": "T",
+      "cena": 7
+    },
+    {
+      "mesto1": "O",
+      "mesto2": "V",
+      "cena": 10
+    }
+  ]
+}
